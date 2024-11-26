@@ -2,7 +2,6 @@
   "name": "gurselcakardraft",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gurselcakar.github.io/gurselcakardraft/",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
